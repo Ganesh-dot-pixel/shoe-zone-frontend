@@ -39,7 +39,7 @@ section{
     align-items:center;
 }
 #home{
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../image/hoes.png);
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),url(../photos/hoes.png);
     background-size: cover;
     background-position: center;
     flex-direction: column;
@@ -142,4 +142,5 @@ footer{
     text-align: center;
     color: white;
     padding: 3px;
+
 }
